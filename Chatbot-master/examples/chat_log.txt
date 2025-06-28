@@ -1,0 +1,59 @@
+2025-06-26 21:52 - You: hi
+2025-06-26 21:52 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-26 22:13 - You: hi
+2025-06-26 22:13 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-26 22:13 - You: hi
+2025-06-26 22:13 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-26 22:20 - You: hi
+2025-06-26 22:20 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-26 22:45 - You: what is ai
+2025-06-26 22:45 - Bot: ❌ Error: HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=Artificial+intelligence&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001E6B05CBED0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+
+2025-06-26 22:48 - You:  Bot: Hello! Ask me anything.
+You: what is ai
+Bot: ❌ Error: HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=Artificial+intelligence&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001E6B05CBED0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+2025-06-26 22:48 - Bot: ❌ Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+2025-06-26 22:57 - You: hlo
+2025-06-26 22:57 - Bot: 2 (Confidence: 0.11)
+
+2025-06-26 22:58 - You: what is 2
+2025-06-26 22:58 - Bot: ❌ Error: HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=2&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000027297D08750>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+
+2025-06-28 21:21 - You: hi
+2025-06-28 21:21 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-28 21:21 - You: what is ai
+2025-06-28 21:21 - Bot: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+2025-06-28 21:24 - You: hi
+2025-06-28 21:24 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-28 21:24 - You: how r u
+2025-06-28 21:24 - Bot: I'm just a bot, but I'm doing well! (Confidence: 0.20)
+
+2025-06-28 21:26 - You: hi
+2025-06-28 21:26 - Bot: Hello! How can I help you? (Confidence: 0.21)
+
+2025-06-28 21:26 - You: what is ai
+2025-06-28 21:26 - Bot: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+2025-06-28 21:26 - You: who is cm of ap
+2025-06-28 21:26 - Bot: The chief minister of Andhra Pradesh is the chief executive of the Indian state of Andhra Pradesh. In accordance with the Constitution of India, the governor is a state's de jure head, but de facto executive authority rests with the chief minister.
+
+2025-06-28 21:39 - You: hi
+2025-06-28 21:39 - Bot: Hi there! How can I assist you today?
+
+2025-06-28 21:39 - You: hlo
+2025-06-28 21:39 - Bot: Hi there! How can I assist you today?
+
+2025-06-28 21:40 - You: what is ai
+2025-06-28 21:40 - Bot: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+2025-06-28 21:42 - You: hi
+2025-06-28 21:42 - Bot: Hi there! How can I assist you today?
+

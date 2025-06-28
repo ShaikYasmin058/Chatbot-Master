@@ -1,0 +1,19 @@
+! version = 2
+! sessionID = general
+
++ hi = Hello! How can I help you?
++ how are you = I'm just a bot, but I'm doing well!
++ what is ai = @whoIs ai
++ what is artificial intelligence = @whoIs artificial intelligence
++ who is alan turing = @whoIs alan turing
++ tell me about tesla = @whoIs tesla
++ what is python = @whoIs python
++ what is ml = @whoIs machine learning
++ who is narendra modi = @whoIs narendra modi
++ hello = Hello!
++ hey = Hello!
++ who is elon musk = Elon Musk is the founder of SpaceX and Tesla.
++ who is cm of ap = @whoIs cm of ap
++ andhra pradesh cm = @whoIs cm of ap
++ cm andhra = @whoIs cm of ap
+

@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "How are you?", "Good morning", "Hey"],
+      "responses": ["Hello!", "Hi there!", "Greetings!", "How can I assist you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": ["Goodbye!", "See you soon!", "Take care!"]
+    },
+    {
+      "tag": "cm_ap",
+      "patterns": [
+        "Who is the CM of Andhra Pradesh?",
+        "Current CM of AP",
+        "Chief Minister of AP",
+        "cm of ap"
+      ],
+      "responses": [
+        "As of June 2025, the Chief Minister of Andhra Pradesh is N. Chandrababu Naidu."
+      ]
+    }
+  ]
+}
